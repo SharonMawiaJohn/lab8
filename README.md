@@ -148,6 +148,8 @@ IAM Role: Choose vpc-flow-logs-Role.
 
 Choose Create flow log.
 
+![alt text](image-5.png)
+
 An alert is displayed at the top indicating the flow log was created for Shared VPC.
 
 From the bottom pane, choose the Flow logs tab and notice that SharedVPCLogs was created.
