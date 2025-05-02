@@ -123,6 +123,7 @@ Choose Save changes.
 
 The route tables are now configured to send traffic through the peering connection when the traffic is destined for the other VPC.
 
+![alt text](image-4.png)
 
 Task 3: Enabling VPC Flow Logs to provide insight on the data moving across the network
 Now that the peering connection is established between the two VPCs, you setup VPC Flow Logs to monitor the network traffic moving between two networks. In this lab, you setup VPC Flow Logs to monitor the traffic on the VPC hosting database.
