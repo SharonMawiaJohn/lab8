@@ -80,6 +80,7 @@ When a VPC peering connection is created, the target VPC must accept the connect
 
 On the next screen, from the Actions dropdown list, choose Accept request.
 
+![alt text](image-3.png)
 
 Task 2: Configuring route tables
 You will now update the route tables in both VPCs to send traffic from Lab VPC to the peering connection for Shared VPC.
