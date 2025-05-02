@@ -56,7 +56,7 @@ A VPC peering connection is a one-to-one networking connection between two VPCs 
 
 Two VPCs are provided as part of this lab: Lab VPC and Shared VPC. Lab VPC has an inventory application that runs on an Amazon Elastic Compute Cloud (Amazon EC2) instance in a public subnet. Shared VPC has a database instance that runs in a private subnet.
 
- 
+ ![alt text](image-1.png)
 
 Following architecture diagram shows the infrastructure components available to learner at the begining of the lab
 
