@@ -84,6 +84,8 @@ On the next screen, from the Actions dropdown list, choose Accept request.
 Task 2: Configuring route tables
 You will now update the route tables in both VPCs to send traffic from Lab VPC to the peering connection for Shared VPC.
 
+![alt text](image-2.png)
+
 Following diagram shows route tables with Peering Connections
 
 In the left navigation pane, choose Route Tables.
