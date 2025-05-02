@@ -16,6 +16,8 @@ Analyze the VPC flow logs.
 
 At the end of this lab, your architecture will look like the following example:
 
+![alt text](image.png)
+
 Following architecture diagram shows the final state of infrastructure components with peering connection setup between VPCs
 
 
